@@ -5,16 +5,5 @@
   "interstitial_min_interval_ms": 60000,
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
-  "creatives": [
-    {
-      "id": "fashioneventhub_1",
-      "format": "text",
-      "placements": ["interstitial", "rewarded", "banner"],
-      "title": "Fashion Event Hub",
-      "body": "Discover fashion events and shows near you.",
-      "cta_text": "Install",
-      "bundle_id": "com.fashioneventhub",
-      "weight": 1
-    }
-  ]
+  "creatives": []
 }
